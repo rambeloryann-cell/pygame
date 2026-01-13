@@ -126,3 +126,4 @@ def main():
     pygame.quit()
 
 main()
+
